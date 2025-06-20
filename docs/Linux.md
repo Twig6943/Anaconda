@@ -28,7 +28,14 @@ cd tools
 python2 bimbam.py path/to/exe path/to/output/mfa
 ```
 
-# Compiling the converted output
+# Converting the executable to chowdren's format
+
+```sh
+cd Chowdren
+python2 -m chowdren.run <exename> <outdir>
+```
+
+# Compiling the converted format
 
 ```sh
 cd /path/to/output
