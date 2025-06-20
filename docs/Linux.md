@@ -42,3 +42,7 @@ cd /path/to/output
 cmake . -DCMAKE_POLICY_VERSION_MINIMUM=3.5
 make
 ```
+
+# Disclaimer ⚠️
+
+You might need to remove some parts from the auto-generated code to make it work.
