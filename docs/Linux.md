@@ -6,7 +6,7 @@ Python2 and other dependencies by running
 sudo pacman -S python2 cmake
 ```
 
-PiP by running
+PiP for python2 by running
 
 ```sh
 curl https://bootstrap.pypa.io/pip/2.7/get-pip.py --output get-pip.py
