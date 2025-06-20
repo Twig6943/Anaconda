@@ -4,11 +4,11 @@
 
 [Clickteam 2.5](https://store.steampowered.com/app/248170/Clickteam_Fusion_25/)
 
-[VCForPython27.msi](/Chowdren/Files/VCForPython27.msi)
+[VCForPython27.msi](/Files/VCForPython27.msi)
 
-[cmake-3.29.0-rc2-windows-x86_64.zip](/Chowdren/Files/cmake-3.29.0-rc2-windows-x86_64.zip)
+[cmake-3.29.0-rc2-windows-x86_64.zip](/Files/cmake-3.29.0-rc2-windows-x86_64.zip)
 
-[python-2.7.18.amd64.msi](/Chowdren/Files/python-2.7.18.amd64.msi)
+[python-2.7.18.amd64.msi](/Files/python-2.7.18.amd64.msi)
 
 [Mingw]()
 
@@ -24,7 +24,7 @@ Make the output dir inside the Chowdren dir and as for the place it pulls the ex
 
 2. Run 
 
-```
+```sh
 python -m chowdren.run <exename> <outdir>
 ```
 
@@ -33,12 +33,3 @@ It should convert the game's assets to `Assets.dat` format and generate bunch of
 3. Open Cmake GUI and set the folder with `Assets.dat` as the `Build` folder. Set the `Build` folder inside that folder named `build`
 
 4. 
-
-PS this shit broken af and the only game that kinda works seems to be fnaf2 lmaooooo
-
-# Useful stuff
-
-https://clickwiki.github.io/chowdren/platforms/#Windows
-
-https://clickwiki.github.io/mediawiki-archive/wiki/Chowdren/Platforms
-
