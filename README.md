@@ -2,6 +2,8 @@
 
 this decompiler has been replaced by [Nebula](https://github.com/AITYunivers/NebulaFD), a new decompiler with 2.5+ support. **Anaconda does not support 2.5+ games, please use the new decompiler instead!**
 
+# [Docs 📁](/docs/)
+
 # Useful stuff
 
 [Clickteam-wiki1](https://clickwiki.github.io/chowdren/platforms/#Windows)
