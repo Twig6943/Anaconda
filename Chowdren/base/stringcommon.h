@@ -59,11 +59,6 @@ inline std::string number_to_string(int value)
     return fast_itoa(value);
 }
 
-inline std::string number_to_string(size_t value)
-{
-    return fast_itoa(value);
-}
-
 inline std::string number_to_string(long long value)
 {
     return fast_lltoa(value);
