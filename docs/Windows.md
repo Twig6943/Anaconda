@@ -18,18 +18,16 @@
 
 # WARNING ❗
 
-Don't forget to cd to the correct directory otherwise its going to complain about missing modules
-
-Make the output dir inside the Chowdren dir and as for the place it pulls the exe from it doesnt even matter
-
-2. Run 
+Converting the executable to chowdren's format
 
 ```sh
+cd Chowdren
 python -m chowdren.run <exename> <outdir>
 ```
 
 It should convert the game's assets to `Assets.dat` format and generate bunch of .cpp files
 
-3. Open Cmake GUI and set the folder with `Assets.dat` as the `Build` folder. Set the `Build` folder inside that folder named `build`
+Open Cmake GUI and set the folder with `Assets.dat` as the `Build` folder. Set the `Build` folder inside that folder named `build`
 
-4. 
+```sh
+```
